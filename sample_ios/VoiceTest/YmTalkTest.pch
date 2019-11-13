@@ -1,0 +1,28 @@
+//
+//  YmTalkTest.pch
+//  YmTalkTest
+//
+//  Created by zalejiang on 2017/11/27.
+//  Copyright © 2017年 Youme. All rights reserved.
+//
+
+#ifndef YmTalkTest_pch
+#define YmTalkTest_pch
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define     strJoinAppKey   @"YOUME5BE427937AF216E88E0F84C0EF148BD29B691556"
+
+
+#define     strAppKey       @"YOUME5BE427937AF216E88E0F84C0EF148BD29B691556"
+#define     strAppSecret    @"y1sepDnrmgatu/G8rx1nIKglCclvuA5tAvC0vXwlfZKOvPZfaUYOTkfAdUUtbziW8Z4HrsgpJtmV/RqhacllbXD3abvuXIBlrknqP+Bith9OHazsC1X96b3Inii6J7Und0/KaGf3xEzWx/t1E1SbdrbmBJ01D1mwn50O/9V0820BAAE="
+
+//推流地址，观看也是同一个地址，可以用软件 mpv或者VLC 观看
+#define PUSH_ADDRESS @"rtmp://185.185.41.21:1935/live/livestream"
+
+#define MIX_WIDTH 320
+#define MIX_HEIGHT 480
+
+#endif /* YmTalkTest_pch */
