@@ -32,6 +32,7 @@ iOS10系统使用录音权限，需要在target的`info.plist`中新加`NSMicrop
 5. 为iOS10以上版本添加摄像头使用权限配置
 iOS10系统使用摄像头权限，需要在target的`info.plist`中新加`NSCameraUsageDescription`键，值为字符串(授权弹窗出现时提示给用户)。首次开启摄像头时会向用户申请权限。
 
-
+### 备注：
+[详细接口介绍可查看“Video SDK for iOS API手册”文档](https://github.com/youmesdk/YoumeVideoSDK_iOS/blob/master/Video%20SDK%20for%20iOS-API%E6%89%8B%E5%86%8C.md)
 
 
