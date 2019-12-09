@@ -35,4 +35,5 @@ iOS10系统使用摄像头权限，需要在target的`info.plist`中新加`NSCam
 ### 备注：
 [详细接口介绍可查看“Video SDK for iOS API手册”文档](https://github.com/youmesdk/YoumeVideoSDK_iOS/blob/master/Video%20SDK%20for%20iOS-API%E6%89%8B%E5%86%8C.md)
 
+实时视频Demo下载地址：->[Youme Video Demo for iOS](https://github.com/youmesdk/YoumeVideoDemo_iOS)
 
