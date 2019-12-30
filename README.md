@@ -1,6 +1,6 @@
 # Video SDK for iOS 使用指南
 
-游密实时视频SDK，如果需要用git克隆到本地需要运行命令语句：git lfs clone https://github.com/youmesdk/YoumeVideoSDK_iOS 
+游密实时视频SDK，如果需要用git克隆到本地需要运行命令语句：git lfs clone https：//github.com/youmesdk/YoumeVideoSDK_iOS
 
 ## 适用范围
 本文档适用于游密实时音视频引擎（Video SDK）Xcode开发环境下接入。
